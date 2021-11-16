@@ -1,0 +1,36 @@
+Summary:
+    Venture into the Lair of the Python! Navigate the winding dungeon in your terminal, solve puzzles to advance through to the end, 
+    and slay the serpentine beast!!! Investigate the rooms, discover hidden traps, and survive!
+
+P0:
+    Having a dungeon to traverse 
+    Be able traverse rooms
+    Room descriptions
+    Have an inventory 
+    Input based commands for:
+        movement
+        investigating
+        see inventory
+        receiving/storing items
+        using them and stuff
+
+P1:
+    Gotta have a combat system
+    Create monsters/opponents to fight
+    !Character stats/creation
+    !combat oriented items
+    Input based commands for:
+        combat
+        equipping items
+
+!P2:
+    ascii rooms
+    Character Classes
+    Character Customization
+    Save state
+
+!P3:
+    Character/monster mad-lib
+    Procedurally generated dungeon (and functional)
+    HTML/Web based GUI
+    vendor/gold loot
